@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Taghreed103
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning frontend path.
+- 🌱  Currently learning frontend developer  path.
 - 💞️ I’m looking to collaborate on international company 
 
 
